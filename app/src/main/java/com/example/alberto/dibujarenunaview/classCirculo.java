@@ -9,4 +9,10 @@ public class classCirculo {
     int x;
     int y;
     int radio;
+
+    public classCirculo(int x, int y, int radio) {
+        this.x = x;
+        this.y = y;
+        this.radio = radio;
+    }
 }
